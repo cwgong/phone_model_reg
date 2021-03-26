@@ -1,0 +1,79 @@
+realme/真我	X50	2020-01
+iqoo	iQOO 3	2020-02
+vivo	Z6	2020-02
+vivo	Y3	2020-02
+oppo	reno3 元气版	2020-02
+Xiaomi/小米	10	2020-02
+Xiaomi/小米	10 PRO	2020-02
+realme/真我	X50 Pro	2020-03
+realme/真我	X50 Pro 5G	2020-03
+vivo	Z6 5G	2020-03
+vivo	S6	2020-03
+vivo	NEX 3S	2020-03
+vivo	X30 Pro aw联名限定版	2020-03
+oppo	OPPO Find X2 Pro	2020-03
+oppo	OPPO Find X2	2020-03
+Honour/荣耀 	畅玩9A	2020-03
+Xiaomi/小米	腾讯黑鲨游戏手机3	2020-03
+Xiaomi/小米	腾讯黑鲨游戏手机3PRO	2020-03
+Xiaomi/小米	Redmi K30 Pro	2020-03
+iqoo	Z6	2020-03
+realme/真我	X50m 5G	2020-04
+iqoo	iqoo neo3	2020-04
+vivo	Y5	2020-04
+vivo	y50	2020-04
+oppo	OPPO A92S	2020-04
+oppo	Ace2	2020-04
+Huawei/华为	Huawei/ nova 7 SE 5G	2020-04
+Huawei/华为	HUAWEI P40	2020-04
+Huawei/华为	P40 Pro	2020-04
+Huawei/华为	nova 7 Pro 5G	2020-04
+Huawei/华为	HUAWEI nova 7 5G	2020-04
+Honour/荣耀	30 PRO	2020-04
+Honour/荣耀	30s	2020-04
+Honour/荣耀	play4T	2020-04
+Honour/荣耀	30	2020-04
+Honour/荣耀	30 pro+	2020-04
+Honour/荣耀	Play4T Pro	2020-04
+Xiaomi/小米	10青春版	2020-04
+Oneplus/一加	In2020	2020-04
+Oneplus/一加	in2010	2020-04
+realme/真我	X50 Pro 5G 玩家版	2020-05
+iqoo	iQOO Z1	2020-05
+Huawei/华为	畅享Z 5G	2020-05
+Honour/荣耀	X10	2020-05
+Xiaomi/小米	Redmi 10X Pro	2020-05
+Xiaomi/小米	REDMI 10X	2020-05
+Xiaomi/小米	Redmi 10X 4G	2020-05
+Xiaomi/小米	Redmi K30i 5G	2020-05
+vivo	y70S	2020-06
+vivo	X50 Pro+	2020-06
+vivo	X50 Pro	2020-06
+vivo	X50	2020-06
+oppo	OPPO Reno4 Pro	2020-06
+oppo	OPPO Reno4	2020-06
+Huawei/华为	HUAWEI P40 Pro+	2020-06
+Huawei/华为	畅享20 Pro	2020-06
+Honour/荣耀	30青春版	2020-06
+Honour/荣耀	Play4	2020-06
+Honour/荣耀	Play4 Pro	2020-06
+Honour/荣耀	X10 max	2020-06
+Xiaomi/小米	REDMI 9	2020-06
+iqoo	iQOO Z1	2020-06
+vivo	y51s	2020-07
+vivo	S7	2020-07
+iqoo	IQOO U1	2020-07
+iqoo	iQOO Z1X	2020-07
+vivo	X50 Pro+	2020-07
+oppo	OPPO A72	2020-07
+Honour/荣耀	X10 max	2020-07
+Honour/荣耀	30青春版	2020-07
+Xiaomi/小米	REDMI 9A	2020-07
+realme/真我	V5 5G	2020-08
+iqoo	iQOO 5 Pro	2020-08
+iqoo	iqoo 5	2020-08
+vivo	S7	2020-08
+oppo	K7	2020-08
+Xiaomi/小米	10 至尊纪念版	2020-08
+Xiaomi/小米	Redmi K30 至尊纪念版	2020-08
+realme/真我	X7 Pro 5G	2020-09
